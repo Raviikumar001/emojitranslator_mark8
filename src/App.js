@@ -3,7 +3,7 @@ import "./App.css";
 
 var bgColor = "Black";
 var textColor = "white";
-var message = "none";
+// var message = "none";
 
 var emojiDictionary = {
   "😊": "Smiling",
